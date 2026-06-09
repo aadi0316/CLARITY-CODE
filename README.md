@@ -1,4 +1,4 @@
-# ClarityCode
+# CLARITY-CODE
 
 A powerful Next.js application that uses AI to deobfuscate code, analyze security vulnerabilities, and explain code functionality. Built with Google Gemini AI via Genkit.
 
@@ -19,7 +19,7 @@ A powerful Next.js application that uses AI to deobfuscate code, analyze securit
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/aadi0316/Clarity-code.git>
+git clone <https://github.com/aadi0316/CLARITY-CODE.git>
 cd Clarity-code
 ```
 
